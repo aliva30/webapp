@@ -92,7 +92,7 @@ span.psw {
 			<span class="psw">Forgot <a href="#">password?</a></span>
 		</div>
 		<div class="container sign in">
-			<p>Don't have an account? <a href="signup.jsp">Sign Up</a></p>
+			<p>Don't have an account? <a href="signup.jsp">login</a></p>
 		</div>
 	</form>
 
