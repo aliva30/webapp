@@ -91,7 +91,7 @@ span.psw {
 			<button type="button" class="cancelbtn">Cancel</button>
 			<span class="psw">Forgot <a href="#">password?</a></span>
 		</div>
-		<div class="container signin">
+		<div class="container login">
 			<p>Don't have an account? <a href="signup.jsp">Sign Up</a></p>
 		</div>
 	</form>
