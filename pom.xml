@@ -6,7 +6,7 @@
 
   <groupId>com.idream.webapp</groupId>
   <artifactId>idream-it-solutions</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>war</packaging>
 
   <name>idream-it-solutions</name>
@@ -23,12 +23,12 @@
 		<repository>
 			<id>nexus</id>
 			<name>testrepo</name>
-			<url>http://15.207.16.181:8081/repository/testrepo/</url>
+			<url>http://http://52.66.198.120:8081/repository/testrepo/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>testrepo</name>
-			<url>http://15.207.16.181:8081/repository/testrepo/</url>
+			<url>http://http://52.66.198.120:8081/repository/testrepo//url>
 		</snapshotRepository>
 	</distributionManagement>
   
